@@ -6,6 +6,6 @@
 
 # Demo
 
-https://github.com/Shiccho/RobotCam_PPO/assets/94341374/2f1426f9-c4f8-458a-a87f-6c61f71d2c6d
+https://github.com/Shiccho/RobotCam_PPO/assets/94341374/c92055e5-ee98-4161-bd78-3d62dfa95eb9
 
 中央の3Dモデルは手術時の切開部を想定したモデルです。
